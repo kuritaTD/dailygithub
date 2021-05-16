@@ -19,3 +19,14 @@ day3
 ![githubday3_01](https://user-images.githubusercontent.com/50454382/118365590-521b0d00-b5d8-11eb-8492-4360e12400df.png)
 ![githubday3](https://user-images.githubusercontent.com/50454382/118365593-56dfc100-b5d8-11eb-8cec-9cefcc86cbb7.png)
 ![githubday3_03](https://user-images.githubusercontent.com/50454382/118365574-46c7e180-b5d8-11eb-83f2-8c09f9f15208.png)
+
+day4
+
+![githubday4_01](https://user-images.githubusercontent.com/50454382/118396371-425c0100-b68a-11eb-8940-72ab6dc1a91e.png)
+![githubday4_02](https://user-images.githubusercontent.com/50454382/118396373-45ef8800-b68a-11eb-804c-411ee8460beb.png)
+![githubday4_03](https://user-images.githubusercontent.com/50454382/118396375-47b94b80-b68a-11eb-97ea-44f9764d651d.png)
+![githubday4_05](https://user-images.githubusercontent.com/50454382/118396380-4be56900-b68a-11eb-94db-53e000c6be88.png)
+![githubday4_06](https://user-images.githubusercontent.com/50454382/118396381-4d169600-b68a-11eb-8ab1-fa2e16a2e171.png)
+![githubday4_07](https://user-images.githubusercontent.com/50454382/118396383-4e47c300-b68a-11eb-8e4e-8851d7a014d8.png)
+![githubday4_08](https://user-images.githubusercontent.com/50454382/118396385-50aa1d00-b68a-11eb-8001-4988e03f74c4.png)
+![githubday4_09](https://user-images.githubusercontent.com/50454382/118396386-5142b380-b68a-11eb-8ac0-d77e2e2f0b96.png)
