@@ -49,3 +49,6 @@ day6
 ![githubday6_06](https://user-images.githubusercontent.com/50454382/118675153-555f0480-b835-11eb-8285-94fdc3576e3e.png)
 ![Uploading githubday6_07.png…]()
 
+day7
+![githubday7](https://user-images.githubusercontent.com/50454382/118832186-5fe3d180-b8fb-11eb-96cb-8f7108a11673.png)
+![githubday7_01](https://user-images.githubusercontent.com/50454382/118832201-62dec200-b8fb-11eb-9223-bd5cc777d2b4.png)
