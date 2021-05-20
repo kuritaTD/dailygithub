@@ -54,3 +54,10 @@ day7
 ![githubday7_01](https://user-images.githubusercontent.com/50454382/118832201-62dec200-b8fb-11eb-9223-bd5cc777d2b4.png)
 ![githubday7_03](https://user-images.githubusercontent.com/50454382/118843626-3334b780-b905-11eb-894e-c6188d300a7f.png)
 ![githubday7_05](https://user-images.githubusercontent.com/50454382/118844304-d1288200-b905-11eb-8c2c-90ac0af1b217.png)
+
+day8
+![githubday8](https://user-images.githubusercontent.com/50454382/118990068-8702d780-b9bd-11eb-9ea4-a72fa835cda9.png)
+![githubday8_01](https://user-images.githubusercontent.com/50454382/118990078-89653180-b9bd-11eb-93f8-f8dd2d6783fe.png)
+![githubday8_02](https://user-images.githubusercontent.com/50454382/118990083-8b2ef500-b9bd-11eb-8cb5-2bc06c02b85f.png)
+![githubday8_03](https://user-images.githubusercontent.com/50454382/118990105-8ec27c00-b9bd-11eb-8eac-51ce193da705.png)
+![githubday8_04](https://user-images.githubusercontent.com/50454382/118990113-8ff3a900-b9bd-11eb-8e8b-feb3d51b241e.png)
