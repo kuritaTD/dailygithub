@@ -78,3 +78,4 @@ day11
 ![githubday11_01](https://user-images.githubusercontent.com/50454382/119244577-f985da00-bbac-11eb-95c2-8b2454c8e428.png)
 ![githubday11_02](https://user-images.githubusercontent.com/50454382/119244578-fa1e7080-bbac-11eb-8b11-8f3e771831b2.png)
 ![githubday11_03](https://user-images.githubusercontent.com/50454382/119244579-fab70700-bbac-11eb-84d5-99adb5a14150.png)
+day12![Uploading githubday12.png…]()
