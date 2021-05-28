@@ -78,4 +78,10 @@ day11
 ![githubday11_01](https://user-images.githubusercontent.com/50454382/119244577-f985da00-bbac-11eb-95c2-8b2454c8e428.png)
 ![githubday11_02](https://user-images.githubusercontent.com/50454382/119244578-fa1e7080-bbac-11eb-8b11-8f3e771831b2.png)
 ![githubday11_03](https://user-images.githubusercontent.com/50454382/119244579-fab70700-bbac-11eb-84d5-99adb5a14150.png)
-day12![Uploading githubday12.png…]()
+day12
+![githubday12](https://user-images.githubusercontent.com/50454382/119952716-45cf8080-bfd8-11eb-86a8-2854b6d28fb6.png)
+day13
+![githubday13](https://user-images.githubusercontent.com/50454382/119952771-4ec05200-bfd8-11eb-93f6-b2acb5a2f22f.png)
+![githubday13_01](https://user-images.githubusercontent.com/50454382/119952776-4ff17f00-bfd8-11eb-8f5f-cd7bb8890be3.png)
+![githubday13_02](https://user-images.githubusercontent.com/50454382/119952782-51bb4280-bfd8-11eb-9616-8867f1e64944.png)
+
