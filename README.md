@@ -84,4 +84,9 @@ day13
 ![githubday13](https://user-images.githubusercontent.com/50454382/119952771-4ec05200-bfd8-11eb-93f6-b2acb5a2f22f.png)
 ![githubday13_01](https://user-images.githubusercontent.com/50454382/119952776-4ff17f00-bfd8-11eb-8f5f-cd7bb8890be3.png)
 ![githubday13_02](https://user-images.githubusercontent.com/50454382/119952782-51bb4280-bfd8-11eb-9616-8867f1e64944.png)
+day14
+![githubday14](https://user-images.githubusercontent.com/50454382/119954695-39e4be00-bfda-11eb-89d8-c6d3d9e3e787.png)
+![githubday14_01](https://user-images.githubusercontent.com/50454382/119954703-3bae8180-bfda-11eb-9154-5ff959d2d575.png)
+![githubday14_02](https://user-images.githubusercontent.com/50454382/119954725-41a46280-bfda-11eb-827d-0180d0ccd8a9.png)
+![githubday14_03](https://user-images.githubusercontent.com/50454382/119954733-436e2600-bfda-11eb-9212-0beaadc6d906.png)
 
