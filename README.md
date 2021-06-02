@@ -119,3 +119,8 @@ day17
 
 day18
 ![githubday18_02](https://user-images.githubusercontent.com/50454382/120341346-c58b8100-c331-11eb-866d-c705c0c65fe1.png)
+
+day19
+![githubday19](https://user-images.githubusercontent.com/50454382/120502284-406d9e00-c3fd-11eb-9c43-e63c89278b03.png)
+![githubday19_03](https://user-images.githubusercontent.com/50454382/120502299-4499bb80-c3fd-11eb-8ed6-172eefe9107c.png)
+![githubday19_02](https://user-images.githubusercontent.com/50454382/120502303-45325200-c3fd-11eb-83b9-d20fa6246ac8.png)
