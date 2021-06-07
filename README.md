@@ -143,3 +143,9 @@ day23
 ![githubday23](https://user-images.githubusercontent.com/50454382/120929217-28f72380-c723-11eb-9fde-716b2bb625a2.png)
 ![githubday23_01](https://user-images.githubusercontent.com/50454382/120929219-2a285080-c723-11eb-9700-2ea1ed4fa224.png)
 ![githubday23_02](https://user-images.githubusercontent.com/50454382/120929223-2ac0e700-c723-11eb-9941-da87e367285d.png)
+
+day24
+![githubday24_03](https://user-images.githubusercontent.com/50454382/121031330-35dc4b80-c7e5-11eb-93ab-f0a7bfb9f9dd.png)
+![githubday24_02](https://user-images.githubusercontent.com/50454382/121031335-370d7880-c7e5-11eb-8938-573f6f202523.png)
+![githubday24_01](https://user-images.githubusercontent.com/50454382/121031336-370d7880-c7e5-11eb-8514-decafc18a877.png)
+![githubday24](https://user-images.githubusercontent.com/50454382/121031339-37a60f00-c7e5-11eb-8933-36e029dd4009.png)
