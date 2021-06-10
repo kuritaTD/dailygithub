@@ -168,4 +168,5 @@ day26
 
 day27
 ![githubday27](https://user-images.githubusercontent.com/50454382/121548217-cdd96f80-ca47-11eb-8f66-c76359dd346f.png)
-![Uploading githubday27_02.png…]()
+![githubday27_01](https://user-images.githubusercontent.com/50454382/121548381-ec3f6b00-ca47-11eb-8bf4-5581e508e791.png)
+![githubday27_02](https://user-images.githubusercontent.com/50454382/121548385-ee092e80-ca47-11eb-84b5-1845326b86c3.png)
