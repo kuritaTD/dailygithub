@@ -183,3 +183,6 @@ day29
 ![githubday29_01](https://user-images.githubusercontent.com/50454382/121779957-21c78e00-cbd9-11eb-9508-c769f3787afe.png)
 ![githubday29](https://user-images.githubusercontent.com/50454382/121779951-1bd1ad00-cbd9-11eb-8f1b-f7bc718dcfcd.png)
 
+day30
+![githubday30](https://user-images.githubusercontent.com/50454382/121812339-6cf9a380-cca2-11eb-9f51-ca6909baf2be.png)
+![githubday30_01](https://user-images.githubusercontent.com/50454382/121812341-6d923a00-cca2-11eb-9f12-36013240874c.png)
